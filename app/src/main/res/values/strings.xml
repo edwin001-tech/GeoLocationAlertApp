@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoLocation Alert</string>
+    <string name="message_success">Message Sent</string>
+</resources>
