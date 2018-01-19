@@ -128,7 +128,7 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
                     pd=new ProgressDialog(v.getContext());
                     pd.setCancelable(false);
                     pd.setProgressStyle(ProgressDialog.STYLE_SPINNER);
-                    pd.setMessage("Move your device few meters and wait for a while.....");
+                    pd.setMessage("Move your device few meters and wait.....");
                     pd.getProgress();
                     pd.show();
 
